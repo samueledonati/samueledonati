@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="left">Hello World! I’m Samuele, a Backend Developer 👋🏻:</h1>
 
-<!--
-**samueledonati/samueledonati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Samuele Donati, and I'm a backend development student based in Milan, Italy.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">💻 Tech Stack:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">More about me</h2>
+
+###
+
+<p align="left">
+✨ Writing bugs since 2008<br>
+📚 Currently specializing in Python development<br>
+🎯 My goals: build experience, sharpen my skills, and develop my own large-scale projects<br>
+🎲 Fun fact: I attend a classical high school focused on humanities, but I dedicate all my free time to studying computer science.
+</p>
+
