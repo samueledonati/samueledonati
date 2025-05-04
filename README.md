@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">More about me</h2>
+<h2 align="left">💫 About me</h2>
 
 ###
 
