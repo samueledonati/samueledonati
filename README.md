@@ -32,6 +32,6 @@
 ✨ Writing bugs since 2008<br>
 📚 Currently specializing in Python development<br>
 🎯 My goals: building experience, sharpening my skills, and developing my own large-scale projects<br>
-🎲 Fun fact: I attend a classical high school focused on humanities, but I dedicate all my free time to studying computer science.
+🎲 Fun fact: I attend a classical high school focused on humanities, but I dedicate all my free time studying computer science.
 </p>
 
