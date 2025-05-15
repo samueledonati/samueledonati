@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Writing bugs since 2008<br>👨‍🎓 I’m currently taking CS50’s Introduction to Computer Science<br>🎯 My goals: building experience, sharpening my skills, and developing my own large-scale projects<br>⚡ Fun fact: I attend a classical high school focused on humanities especially Ancient Greek and Latin but I dedicate all my free time studying computer science<br>
+🌱 Writing bugs since 2008<br>👨‍🎓 I’m currently Backend Development<br>🎯 My goals: building experience, sharpening my skills, and developing my own large-scale projects<br>⚡ Fun fact: I attend a classical high school focused on humanities especially Ancient Greek and Latin but I dedicate all my free time studying computer science<br>
 
 
 ## 🌐 Socials:
